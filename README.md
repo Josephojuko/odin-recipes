@@ -1,0 +1,1 @@
+This is my first odin project. It involves the use of HTML to design responsive website
